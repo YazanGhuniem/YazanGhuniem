@@ -1,6 +1,6 @@
 ### Hey, I'm Yazan 👋
 
-AI Engineer at **NLine Analytics**, and a junior studying Computer Science at the University of Cincinnati.
+AI Engineer at **NLign Analytics**, and a junior studying Computer Science at the University of Cincinnati.
 
 - 🔭 Working with machine learning and building with AI agents
 - 🌱 Always picking up something new in that space
