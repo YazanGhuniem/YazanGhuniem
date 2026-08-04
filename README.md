@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @YazanGhuniem, a sophmore studying Computer Science at the University of Cincinnati.
-- 👀 I’m interested in machine learning and heavy into software development.
-- 🌱 I’m currently learning how to effeciently use the React.
-- 💞️ I’m looking to collaborate on simple projects for my portfolio.
-- 📫 How to reach me, Yazanghuniem2005@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: This is my fourth year programming.
+### Hey, I'm Yazan 👋
 
-<!---
-YazanGhuniem/YazanGhuniem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI Engineer at **NLine Analytics**, and a junior studying Computer Science at the University of Cincinnati.
+
+- 🔭 Working with machine learning and building with AI agents
+- 🌱 Always picking up something new in that space
+- 🚀 Featured project: [job-notifs](https://github.com/YazanGhuniem/job-notifs) — a Telegram bot that watches 50+ companies' job boards via their ATS APIs and pings me the moment a new CS internship drops
+- 📫 Reach me at Yazanghuniem2005@gmail.com
